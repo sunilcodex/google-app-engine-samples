@@ -1,4 +1,4 @@
-#summary Google App Engine Sample Code
+#summary Introduction to the Google App Engine Sample Code
 
 = Introduction =
 
