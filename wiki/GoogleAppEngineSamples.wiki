@@ -1,0 +1,7 @@
+#summary Google App Engine Sample Code
+
+= Introduction =
+
+This project contains sample code that can be run on Google App Engine.  Each sample is checked in its own directory in the project's trunk. The samples highlight parts of the Google App Engine APIs, including samples that integrate Google App Engine with other web tools and APIs.
+
+= Details =
