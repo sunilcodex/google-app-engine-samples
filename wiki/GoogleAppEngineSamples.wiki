@@ -5,3 +5,7 @@
 This project contains sample code that can be run on Google App Engine.  Each sample is checked in its own directory in the project's trunk. The samples highlight parts of the Google App Engine APIs, including samples that integrate Google App Engine with other web tools and APIs.
 
 = Details =
+
+Samples:
+
+trunk/geodatastore: The GeoDataStore application allows you to store you geo data on the App Engine infrastructure. It comes with a backend server which can be accessed directly using Get and Post, as well as a Google Maps API front-end.
