@@ -9,3 +9,9 @@ This project contains sample code that can be run on Google App Engine.  Each sa
 Samples:
 
 trunk/geodatastore: The GeoDataStore application allows you to store you geo data on the App Engine infrastructure. It comes with a backend server which can be accessed directly using Get and Post, as well as a Google Maps API front-end.
+
+trunk/myhangouts: My Hangouts is a simple ajax applications that provides a simple RPC framework for making mostly abstract Python function calls from JavaScript. Provides a few simple functions for the My Hangouts application.This application uses the lower level Datastore API to make datastore calls and perform queries.
+
+trunk/secret_valentine: Secret Valentine is a demo of the mail api. Users fill out a for to send an email to a friend. The application replaces the form content with some secret content and sends an email to the specified user. 
+
+trunk/tasks: The Tasks application is a stylized task list. Its a collaborative task application that enables users to share task lists with one another and provides a simple access control mechanism.
