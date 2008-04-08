@@ -15,3 +15,5 @@ Samples:
 *trunk/secret_valentine*: Secret Valentine is a demo of the mail api. Users fill out a for to send an email to a friend. The application replaces the form content with some secret content and sends an email to the specified user. 
 
 *trunk/tasks*: The Tasks application is a stylized task list. Its a collaborative task application that enables users to share task lists with one another and provides a simple access control mechanism.
+
+*trunk/muvmuv*: MuvMuv is a simple movie review site that grabs the upcoming movies and find its movie trailer.
