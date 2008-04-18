@@ -17,3 +17,5 @@ Samples:
 *trunk/tasks*: The Tasks application is a stylized task list. Its a collaborative task application that enables users to share task lists with one another and provides a simple access control mechanism.
 
 *trunk/muvmuv*: MuvMuv is a simple movie review site that grabs the upcoming movies and find its movie trailer.
+
+*trunk/blitz*: Blitz is an Ajax chess program with real time chat and persistent storage of game history.
