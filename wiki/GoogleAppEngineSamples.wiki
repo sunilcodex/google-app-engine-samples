@@ -19,3 +19,7 @@ Samples:
 *trunk/muvmuv*: MuvMuv is a simple movie review site that grabs the upcoming movies and find its movie trailer.
 
 *trunk/blitz*: Blitz is an Ajax chess program with real time chat and persistent storage of game history.
+
+*trunk/shell*: An interactive, stateful AJAX shell that runs Python code on the server. Deployed at [http://shell.appspot.com/ shell.appspot.com].
+
+*trunk/openid-provider*: An [http://openid.net/ OpenID] Provider. Allows Google users to log into OpenID consumer sites using their Google Account. Deployed at [http://openid-provider.appspot.com/ openid-provider.appspot.com].
