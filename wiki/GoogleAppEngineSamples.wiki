@@ -23,3 +23,5 @@ Samples:
 *trunk/shell*: An interactive, stateful AJAX shell that runs Python code on the server. Deployed at [http://shell.appspot.com/ shell.appspot.com].
 
 *trunk/openid-provider*: An [http://openid.net/ OpenID] provider. Allows Google users to log into OpenID consumer sites using their Google Account. Deployed at [http://openid-provider.appspot.com/ openid-provider.appspot.com].
+
+*trunk/indexed-cached-zipserve*: Allows serving static files from zip files. Uses memcache to increase performance. It performs best when files zipped in alphabetical order so the handler can easily determine which zip file a given url is in.
