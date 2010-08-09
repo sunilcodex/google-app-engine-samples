@@ -26,6 +26,6 @@ Samples:
 
 *trunk/indexed-cached-zipserve*: Allows serving static files from zip files. Uses memcache to increase performance. It performs best when files zipped in alphabetical order so the handler can easily determine which zip file a given url is in.
 
-*trunk/guestbook_namespaces*: Namespace aware sample guestbook application for python App Engine.
+*trunk/guestbook_namespaces*: Namespace aware sample guestbook application for python App Engine. (Needs 1.3.6 or higher App Engine SDK)
 
-*trunk/gwtguestbook-namespaces*: Namespace aware sample guestbook application for GWT/Java App Engine.
+*trunk/gwtguestbook-namespaces*: Namespace aware sample guestbook application for GWT/Java App Engine. (Needs 1.3.6 or higher App Engine SDK)
