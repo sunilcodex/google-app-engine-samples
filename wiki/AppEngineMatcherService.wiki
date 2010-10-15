@@ -1,3 +1,4 @@
+=This service is currently only available in the SDK as a trusted tester service.=
 ==Overview==
 The App Engine Matcher exposes Google’s highly scalable real-time matching infrastructure for use by App Engine apps. Matcher allows an app to register a set of queries to match against a stream of documents. For every document presented, matcher will return the ids of all the registered queries that match the document.
  
