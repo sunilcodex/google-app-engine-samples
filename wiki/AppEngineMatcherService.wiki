@@ -7,9 +7,9 @@ A document is an object with one or more named fields whose types are specified 
 As an example, a Person document is derived from db.Model and has three fields we can match on:
 {{{
 class Person(db.Model):
-name = db.StringProperty()
-birth = db.IntegerProperty()
-height_meters = db.FloatProperty()
+  name = db.StringProperty()
+  birth = db.IntegerProperty()
+  height_meters = db.FloatProperty()
 }}}
 We can register different queries on a Person document. For example:
 {{{
@@ -18,7 +18,7 @@ matcher.subscribe(Person, “birth < 1900”, “old”)
 matcher.subscribe(Person, “height_meters > 2.0”, “tall”)
 matcher.subscribe(Person, “birth > 1945 AND birth < 1965”, “boomer”)
 }}}
-Then a document can be constructured and presented using code like the following:
+Then a document can be constructed and presented using code like the following:
 {{{
 person = MatcherDocument()
 person.name = “smith”
